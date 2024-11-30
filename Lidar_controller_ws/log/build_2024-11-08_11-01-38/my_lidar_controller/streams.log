@@ -1,0 +1,34 @@
+[10.429s] Invoking command in '/home/thesis/Lidar_controller_ws/build/my_lidar_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/thesis/Lidar_controller_ws/build/my_lidar_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build --no-deps symlink_data --force
+[14.557s] running develop
+[14.559s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[14.559s] !!
+[14.560s] 
+[14.560s]         ********************************************************************************
+[14.560s]         Please avoid running ``setup.py`` and ``easy_install``.
+[14.561s]         Instead, use pypa/build, pypa/installer or other
+[14.561s]         standards-based tools.
+[14.562s] 
+[14.562s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[14.562s]         ********************************************************************************
+[14.563s] 
+[14.563s] !!
+[14.563s]   easy_install.initialize_options(self)
+[16.818s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[16.819s]   self.local_index = Environment(self.shadow_path + sys.path)
+[17.619s] running egg_info
+[18.015s] writing my_lidar_controller.egg-info/PKG-INFO
+[18.020s] writing dependency_links to my_lidar_controller.egg-info/dependency_links.txt
+[18.021s] writing entry points to my_lidar_controller.egg-info/entry_points.txt
+[18.021s] writing requirements to my_lidar_controller.egg-info/requires.txt
+[18.022s] writing top-level names to my_lidar_controller.egg-info/top_level.txt
+[19.026s] reading manifest file 'my_lidar_controller.egg-info/SOURCES.txt'
+[19.043s] writing manifest file 'my_lidar_controller.egg-info/SOURCES.txt'
+[19.456s] running build_ext
+[19.457s] Creating /home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages/my-lidar-controller.egg-link (link to .)
+[19.463s] Installing data_get script to /home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/my_lidar_controller
+[19.465s] 
+[19.466s] Installed /home/thesis/Lidar_controller_ws/build/my_lidar_controller
+[19.470s] running symlink_data
+[19.472s] symbolically linking /home/thesis/Lidar_controller_ws/build/my_lidar_controller/resource/my_lidar_controller -> /home/thesis/Lidar_controller_ws/install/my_lidar_controller/share/ament_index/resource_index/packages
+[19.479s] symbolically linking /home/thesis/Lidar_controller_ws/build/my_lidar_controller/package.xml -> /home/thesis/Lidar_controller_ws/install/my_lidar_controller/share/my_lidar_controller
+[19.854s] Invoked command in '/home/thesis/Lidar_controller_ws/build/my_lidar_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/thesis/Lidar_controller_ws/build/my_lidar_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build --no-deps symlink_data --force

@@ -1,0 +1,32 @@
+[28.393s] Invoking command in '/home/thesis/Lidar_controller_ws/src/my_lidar_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/thesis/Lidar_controller_ws/build/my_lidar_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_lidar_controller build --build-base /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build install --record /home/thesis/Lidar_controller_ws/build/my_lidar_controller/install.log --single-version-externally-managed install_data
+[32.765s] running egg_info
+[32.766s] creating ../../build/my_lidar_controller/my_lidar_controller.egg-info
+[33.032s] writing ../../build/my_lidar_controller/my_lidar_controller.egg-info/PKG-INFO
+[33.034s] writing dependency_links to ../../build/my_lidar_controller/my_lidar_controller.egg-info/dependency_links.txt
+[33.035s] writing requirements to ../../build/my_lidar_controller/my_lidar_controller.egg-info/requires.txt
+[33.035s] writing top-level names to ../../build/my_lidar_controller/my_lidar_controller.egg-info/top_level.txt
+[33.036s] writing manifest file '../../build/my_lidar_controller/my_lidar_controller.egg-info/SOURCES.txt'
+[33.540s] reading manifest file '../../build/my_lidar_controller/my_lidar_controller.egg-info/SOURCES.txt'
+[33.543s] writing manifest file '../../build/my_lidar_controller/my_lidar_controller.egg-info/SOURCES.txt'
+[33.544s] running build
+[33.545s] running build_py
+[33.546s] creating /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build
+[33.547s] creating /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build/lib
+[33.551s] creating /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build/lib/my_lidar_controller
+[33.551s] copying my_lidar_controller/__init__.py -> /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build/lib/my_lidar_controller
+[33.552s] running install
+[33.593s] running install_lib
+[33.847s] creating /home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages/my_lidar_controller
+[33.847s] copying /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build/lib/my_lidar_controller/__init__.py -> /home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages/my_lidar_controller
+[33.864s] byte-compiling /home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages/my_lidar_controller/__init__.py to __init__.cpython-312.pyc
+[33.866s] running install_data
+[33.867s] creating /home/thesis/Lidar_controller_ws/install/my_lidar_controller/share/ament_index
+[33.867s] creating /home/thesis/Lidar_controller_ws/install/my_lidar_controller/share/ament_index/resource_index
+[33.868s] creating /home/thesis/Lidar_controller_ws/install/my_lidar_controller/share/ament_index/resource_index/packages
+[33.869s] copying resource/my_lidar_controller -> /home/thesis/Lidar_controller_ws/install/my_lidar_controller/share/ament_index/resource_index/packages
+[33.870s] copying package.xml -> /home/thesis/Lidar_controller_ws/install/my_lidar_controller/share/my_lidar_controller
+[33.870s] running install_egg_info
+[34.139s] Copying ../../build/my_lidar_controller/my_lidar_controller.egg-info to /home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages/my_lidar_controller-0.0.0-py3.12.egg-info
+[34.145s] running install_scripts
+[35.774s] writing list of installed files to '/home/thesis/Lidar_controller_ws/build/my_lidar_controller/install.log'
+[35.967s] Invoked command in '/home/thesis/Lidar_controller_ws/src/my_lidar_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/thesis/Lidar_controller_ws/build/my_lidar_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thesis/Lidar_controller_ws/install/my_lidar_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_lidar_controller build --build-base /home/thesis/Lidar_controller_ws/build/my_lidar_controller/build install --record /home/thesis/Lidar_controller_ws/build/my_lidar_controller/install.log --single-version-externally-managed install_data

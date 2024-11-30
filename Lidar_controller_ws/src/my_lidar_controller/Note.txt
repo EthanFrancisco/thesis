@@ -1,0 +1,10 @@
+heading
+    if heading not within
+        turn
+    else if heading within and obstacle detected
+        forward
+    
+
+
+states:
+    

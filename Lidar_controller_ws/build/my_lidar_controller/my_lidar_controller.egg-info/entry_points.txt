@@ -1,0 +1,2 @@
+[console_scripts]
+data_get = my_lidar_controller.lidar_node:main
